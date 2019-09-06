@@ -1,9 +1,0 @@
-# Professor, nao consegui implementar um programa que receba o mapa, mas tentei escrever o meu pensamento no problema :)
-
-
-For this problem, my idea is to see how many borders does the drawing make relative to everything,
-for example: if I draw a square and divide in half, we can use just the 2 colors,
-if I make it again on the horizontal, now we'll need 4 colors, so, any square in the picture has 3 borders.
-We know about the Kenneth Appel and Wolfgang Haken's theorem it's possible to paint any map with X <= 4 colors.
-So, if you have 3 borders, it's equal to 4 colors, if you have 2 borders, you can paint with 2 colors and more than 4 borders,
-we apply the theorem.  I've just thought about this solution teacher.
